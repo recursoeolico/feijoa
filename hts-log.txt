@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 May 2023 12:49:15 at https://conjuntoresidencialelcedro.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://conjuntoresidencialelcedro.com/ -O1 "C:\My Web Sites\feijoa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/Trident/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.6.7)
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=99
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=99 to https://conjuntoresidencialelcedro.com/inicio-2-2/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=118
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=118 to https://conjuntoresidencialelcedro.com/noticias/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=127
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=127 to https://conjuntoresidencialelcedro.com/pagos/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=135
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=135 to https://conjuntoresidencialelcedro.com/servicios/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=146
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=146 to https://conjuntoresidencialelcedro.com/inicio-3-2-2/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=169
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=169 to https://conjuntoresidencialelcedro.com/contacto/
+12:50:24	Warning: 	Moved Permanently for https://conjuntoresidencialelcedro.com/?p=179
+12:50:24	Warning: 	File has moved from https://conjuntoresidencialelcedro.com/?p=179 to https://conjuntoresidencialelcedro.com/clasificados/
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/Edge/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/Gecko/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/Firefox/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/Version/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/version/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/-negative.svg (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.7)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/OPR/ (from https://conjuntoresidencialelcedro.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.7)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/optusnet.com.au (from https://conjuntoresidencialelcedro.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/com.au (from https://conjuntoresidencialelcedro.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+12:50:24	Error: 	"Not Found" (404) at link https://conjuntoresidencialelcedro.com/net.au (from https://conjuntoresidencialelcedro.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 195 links scanned, 176 files written (59630507 bytes overall) [55439802 bytes received at 803475 bytes/sec], 7313401 bytes transferred using HTTP compression in 122 files, ratio 33%, 14.4 requests per connection
+(11 errors, 14 warnings, 0 messages)
